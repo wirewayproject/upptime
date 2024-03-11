@@ -1,36 +1,66 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: wirewayproject # Your GitHub organization or username, where this repository lives
+repo: upptime # The name
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Proxy
+    url: https://wireway.ch/api/status/nodes/?node=1
+  - name: r-place.ch
+    url: https://r-place.ch
+  - name: Wireway Website
+    url: https://wireway.ch
+  - name: Wireway Speedtest
+    url: https://speedtest.wireway.ch
+  - name: Wireway Autoajax
+    url: https://autoajax.wireway.ch
+  - name: Wireway CLI
+    url: https://wireway.ch/cli.html
+  - name: eniv.app
+    url: https://eniv.app
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: eniv.app Preview
+    url: https://preview.eniv.app
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: Bubicloud
+    url: https://cloud.bubicloud.ch
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: Epilogue
+    url: https://epilogue.social
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: piped
+    url: https://piped.wireway.ch
+    expectedStatusCodes:
+      - 200
+      - 403
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 */2 * * *"
+  staticSite: "0 */2 * * *"
+  summary: "0 */2 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "0 */2 * * *"
+
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: status.wireway.ch
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Wireway
+  introTitle: "**Wireway** is a project operated by a single person making Websites"
+  introMessage: Status page hosted by GitHub. Check out some of my projects at [wireway.ch](https://wireway.ch)
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: Wireway.ch
+      href: https://wireway.ch
+    - title: Speedtest
+      href: https://speedtest.wireway.ch
