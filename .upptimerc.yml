@@ -15,17 +15,7 @@ sites:
     url: https://autoajax.wireway.ch
   - name: Wireway CLI
     url: https://wireway.ch/cli.html
-  - name: eniv.app
-    url: https://eniv.app
-    expectedStatusCodes:
-      - 200
-      - 403
-  - name: eniv.app Preview
-    url: https://preview.eniv.app
-    expectedStatusCodes:
-      - 200
-      - 403
-  - name: Bubicloud
+  - name: Cloud
     url: https://cloud.bubicloud.ch
     expectedStatusCodes:
       - 200
