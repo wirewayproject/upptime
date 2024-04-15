@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 462,
     "timeDay": 406,
-    "timeWeek": 474,
-    "timeMonth": 466,
+    "timeWeek": 472,
+    "timeMonth": 465,
     "timeYear": 462,
     "dailyMinutesDown": {}
   },
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 757,
     "timeDay": 734,
-    "timeWeek": 863,
+    "timeWeek": 861,
     "timeMonth": 783,
     "timeYear": 757,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 436,
     "timeDay": 447,
-    "timeWeek": 461,
+    "timeWeek": 460,
     "timeMonth": 437,
     "timeYear": 436,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 432,
     "timeDay": 418,
-    "timeWeek": 449,
+    "timeWeek": 448,
     "timeMonth": 433,
     "timeYear": 432,
     "dailyMinutesDown": {}
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 110,
     "timeDay": 121,
-    "timeWeek": 123,
+    "timeWeek": 122,
     "timeMonth": 111,
     "timeYear": 110,
     "dailyMinutesDown": {}
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 537,
     "timeDay": 491,
-    "timeWeek": 603,
+    "timeWeek": 604,
     "timeMonth": 545,
     "timeYear": 537,
     "dailyMinutesDown": {}
@@ -148,19 +148,19 @@
     "url": "https://piped.wireway.ch",
     "icon": "https://icons.duckduckgo.com/ip3/piped.wireway.ch.ico",
     "slug": "piped",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 433,
-    "timeDay": 432,
-    "timeWeek": 437,
+    "time": 434,
+    "timeDay": 452,
+    "timeWeek": 438,
     "timeMonth": 436,
-    "timeYear": 433,
+    "timeYear": 434,
     "dailyMinutesDown": {
-      "2024-04-15": 0
+      "2024-04-15": 1
     }
   }
 ]
