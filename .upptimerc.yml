@@ -25,11 +25,25 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
-  - name: piped
+  - name: Piped Frontend
     url: https://piped.wireway.ch
     expectedStatusCodes:
       - 200
       - 403
+  - name: Piped Proxy
+    url: https://pipedproxy.wireway.ch
+    expectedStatusCodes:
+      - 200
+      - 403
+      - 500
+      - 404
+  - name: Piped API
+    url: https://pipedapi.wireway.ch
+    expectedStatusCodes:
+      - 200
+      - 403
+      - 404
+      - 500
 
 workflowSchedule:
   graphs: "0 0 * * *"
