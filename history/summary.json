@@ -13,7 +13,7 @@
     "time": 470,
     "timeDay": 444,
     "timeWeek": 493,
-    "timeMonth": 470,
+    "timeMonth": 469,
     "timeYear": 470,
     "dailyMinutesDown": {}
   },
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 775,
-    "timeDay": 715,
-    "timeWeek": 839,
+    "timeDay": 709,
+    "timeWeek": 837,
     "timeMonth": 803,
     "timeYear": 775,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 127,
     "timeDay": 120,
-    "timeWeek": 125,
+    "timeWeek": 124,
     "timeMonth": 128,
     "timeYear": 127,
     "dailyMinutesDown": {}
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.wireway.ch.ico",
     "slug": "wireway-speedtest",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.83%",
+    "uptimeDay": "91.32%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.83%",
     "time": 439,
-    "timeDay": 436,
+    "timeDay": 431,
     "timeWeek": 437,
     "timeMonth": 442,
     "timeYear": 439,
     "dailyMinutesDown": {
-      "2024-04-30": 3
+      "2024-04-30": 125
     }
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 445,
-    "timeDay": 416,
-    "timeWeek": 455,
-    "timeMonth": 453,
-    "timeYear": 445,
+    "time": 444,
+    "timeDay": 409,
+    "timeWeek": 454,
+    "timeMonth": 452,
+    "timeYear": 444,
     "dailyMinutesDown": {}
   },
   {
@@ -104,7 +104,7 @@
     "uptimeYear": "100.00%",
     "time": 128,
     "timeDay": 120,
-    "timeWeek": 125,
+    "timeWeek": 124,
     "timeMonth": 130,
     "timeYear": 128,
     "dailyMinutesDown": {}
@@ -121,8 +121,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 113,
-    "timeWeek": 117,
+    "timeDay": 121,
+    "timeWeek": 116,
     "timeMonth": 119,
     "timeYear": 115,
     "dailyMinutesDown": {}
@@ -139,9 +139,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 536,
-    "timeDay": 523,
-    "timeWeek": 530,
-    "timeMonth": 539,
+    "timeDay": 534,
+    "timeWeek": 531,
+    "timeMonth": 538,
     "timeYear": 536,
     "dailyMinutesDown": {}
   },
@@ -151,18 +151,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/piped.wireway.ch.ico",
     "slug": "piped-frontend",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 433,
+    "uptime": "99.35%",
+    "uptimeDay": "91.31%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.35%",
+    "time": 432,
     "timeDay": 408,
-    "timeWeek": 424,
-    "timeMonth": 433,
-    "timeYear": 433,
+    "timeWeek": 423,
+    "timeMonth": 432,
+    "timeYear": 432,
     "dailyMinutesDown": {
-      "2024-04-30": 3
+      "2024-04-30": 125
     }
   },
   {
@@ -171,18 +171,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pipedproxy.wireway.ch.ico",
     "slug": "piped-proxy",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.35%",
+    "uptimeDay": "91.31%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.35%",
     "time": 402,
-    "timeDay": 404,
-    "timeWeek": 407,
+    "timeDay": 405,
+    "timeWeek": 406,
     "timeMonth": 402,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2024-04-30": 3
+      "2024-04-30": 125
     }
   },
   {
@@ -191,18 +191,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pipedapi.wireway.ch.ico",
     "slug": "piped-api",
     "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 558,
-    "timeDay": 507,
-    "timeWeek": 552,
-    "timeMonth": 558,
-    "timeYear": 558,
+    "uptime": "99.24%",
+    "uptimeDay": "91.32%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.24%",
+    "time": 556,
+    "timeDay": 488,
+    "timeWeek": 550,
+    "timeMonth": 556,
+    "timeYear": 556,
     "dailyMinutesDown": {
-      "2024-04-30": 3,
+      "2024-04-30": 125,
       "2024-04-26": 23
     }
   }
