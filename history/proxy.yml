@@ -1,7 +1,7 @@
 url: https://wireway.ch/api/status/nodes/?node=1
 status: up
 code: 200
-responseTime: 434
-lastUpdated: 2024-06-03T18:14:23.020Z
+responseTime: 429
+lastUpdated: 2024-06-03T20:10:50.281Z
 startTime: 2024-03-11T08:32:29.916Z
 generator: Upptime <https://github.com/upptime/upptime>
