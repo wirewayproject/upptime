@@ -9,8 +9,6 @@ sites:
     url: https://r-place.ch
   - name: Wireway Website
     url: https://wireway.ch
-  - name: Wireway Speedtest
-    url: https://speedtest.wireway.ch
   - name: Wireway Autoajax
     url: https://autoajax.wireway.ch
   - name: Wireway CLI
