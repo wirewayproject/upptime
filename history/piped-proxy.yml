@@ -1,7 +1,7 @@
 url: https://pipedproxy.wireway.ch
-status: up
-code: 500
-responseTime: 351
-lastUpdated: 2024-10-07T08:15:01.634Z
+status: down
+code: 502
+responseTime: 659
+lastUpdated: 2024-10-07T10:14:07.900Z
 startTime: 2024-04-17T08:18:01.760Z
 generator: Upptime <https://github.com/upptime/upptime>
