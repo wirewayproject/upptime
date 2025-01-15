@@ -1,7 +1,7 @@
 url: https://wireway.ch/api/status/nodes/?node=1
 status: down
 code: 404
-responseTime: 554
-lastUpdated: 2025-01-15T10:12:38.587Z
+responseTime: 487
+lastUpdated: 2025-01-15T12:23:03.616Z
 startTime: 2024-03-11T08:32:29.916Z
 generator: Upptime <https://github.com/upptime/upptime>
